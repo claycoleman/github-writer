@@ -1,3 +1,5 @@
+The goal of this fork is to yield a FB-esque preview of my markdown on the right as I type. Fingers crossed I can pull it off!
+
 ## GitHub WYSIWYG Rich-Text Editor
 
 GitHub Writer is a WYSIWYG rich-text editor for GitHub. The extension is available when creating or commenting on issues, reviews, pull requests, and wikis. 
@@ -94,4 +96,3 @@ The source code contains additional readme files with technical details about th
 Copyright (c) 2003-2020, [CKSource](https://cksource.com/) Frederico Knabben. All rights reserved.
 
 GitHub is a trademark of [GitHub](https://github.com/), Inc.
-
